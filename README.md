@@ -1,5 +1,5 @@
 ## Hi there 👋
-<img src="asset/bg.png" width="200">
+<img src="asset/bg.png" width="4>
 <!--
 **Steven-Zheng7/Steven-Zheng7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
