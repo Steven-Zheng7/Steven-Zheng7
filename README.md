@@ -1,5 +1,6 @@
 # Welcome to my profile 👋
 <img src="asset/bg.png" width="100%">
+Hello! I am Steven, a guy who is really passionate about making anything and especially softwares. I am very eager to learn about new technologies and how to build better softwares/apps. Check out some of my stuff down below if you're interested. ☺️
 <!--
 **Steven-Zheng7/Steven-Zheng7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
